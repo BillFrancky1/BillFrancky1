@@ -1,0 +1,7 @@
+MEAN
+#to calculate the mean of a column#
+# summarize(mean_size(column name))
+
+Rename a Column
+file_name %>%
++ rename( new_name = Old_name)
